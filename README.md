@@ -1,36 +1,146 @@
-# 💫 Hi 👋, I'm Pawan Kumar
-**A passionate Embedded Engineer || VLSI Enthuasist from India**
+Pawan Kumar
 
-- 🔭 **I’m currently working on:** 5-Stage RISC Processor
-- 🌱 **I’m currently learning:** RTL Synthesis
-- 👯 **I’m looking to collaborate on:** 5-Stage RISC Processor
-- 💬 **Ask me about:** Embedded System Collaboration
-- 📫 **How to reach me:** pawankumarece@outlook.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pawankr_anand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pawan-kumar-jbit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawankumarece@outlook.com) 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PawankrAnand-ece&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PawankrAnand-ece&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawankrAnand-ece&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PawankrAnand-ece&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Hardware Engineer | Embedded Systems | Aspiring Embedded Software & VLSI Engineer
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PawankrAnand-ece&icon=0&color=0)](https://visitcount.itsvg.in)
 
+About
 
+I am an Electronics and Communication Engineering undergraduate currently working as a Hardware Engineer, with hands-on experience in hardware diagnostics, PCB testing, and embedded system debugging in real-world environments.
+
+My work focuses on analyzing system-level failures, performing board-level testing, and ensuring reliable operation of embedded hardware systems.
+
+I am actively transitioning into Embedded Software Engineering, working with ESP32, C/C++, and firmware development. In parallel, I am building a strong foundation in RTL design and digital systems, aiming to move towards VLSI design and verification.
+
+---
+
+Core Competencies
+
+Embedded Systems
+
+- ESP32, ESP8266
+- Firmware development (MicroPython, Embedded C++)
+- Sensor interfacing and real-time data acquisition
+
+Hardware Engineering
+
+- PCB Testing and Debugging
+- Hardware Diagnostics and Failure Analysis
+- Signal-level troubleshooting
+
+Communication Protocols
+
+- UART (Serial Communication)
+- RS485 (MAX485)
+- ESP-NOW (Wireless communication)
+
+Digital Design & VLSI
+
+- Verilog, SystemVerilog
+- RTL Design Fundamentals
+- CMOS & MOSFET Concepts
+- Device Simulation (Silvaco TCAD)
+
+Tools & Development
+
+- Xilinx Vivado, GTKWave
+- Git & GitHub
+- ThingSpeak (IoT Platform)
+- Thonny IDE
+- Linux (Basic CLI)
+
+---
+
+Selected Projects
+
+Smart Agriculture AI System
+
+Designed an IoT-based system integrating sensors and machine learning to recommend suitable crops based on soil conditions.
+
+- ESP32-based data acquisition
+- Backend processing using FastAPI
+- Machine learning model for crop prediction
+- Web-based dashboard for visualization
+
+---
+
+Fire Monitoring System (RS485 Network)
+
+Developed a scalable fire monitoring system using RS485 communication for industrial applications.
+
+- Multi-node addressable architecture
+- Reliable long-distance communication
+- Real-time monitoring and alert system
+
+---
+
+Automated Hybrid Attendance System
+
+Implemented an embedded solution using ESP32 to automate attendance tracking.
+
+- Wi-Fi MAC address scanning
+- Interrupt-driven barcode interface
+- Cloud integration using Google Sheets API
+
+---
+
+TCAD Semiconductor Device Simulation
+
+Simulated MOSFET behavior and analyzed electrical characteristics.
+
+- Studied doping profiles and oxide thickness impact
+- Generated I-V and C-V characteristics
+
+---
+
+4-bit ALU Design & Verification
+
+Designed and verified a synthesizable ALU using Verilog.
+
+- Implemented multiple arithmetic and logic operations
+- Developed self-checking testbench
+- Performed waveform analysis in Vivado
+
+---
+
+Experience
+
+Hardware Engineer – MicroSensor LLP
+
+- Diagnosed and resolved hardware faults in fire alarm systems
+- Performed PCB-level debugging and validation
+- Ensured system reliability through structured testing
+
+---
+
+Certifications
+
+- Industrial Instrumentation & Automation – NIT Kurukshetra (Siemens CoE)
+- VLSI Design – NSDC
+
+---
+
+Current Focus
+
+- Embedded Software Development (ESP32, C/C++)
+- Firmware optimization and debugging
+- RTL Design and Digital System Design
+
+---
+
+Career Direction
+
+My goal is to build strong expertise in Embedded Systems and gradually transition into VLSI design and verification, focusing on real-world hardware-software co-design.
+
+---
+
+Contact
+
+Email: pawankumarece@outlook.com
+LinkedIn: https://linkedin.com/in/pawan-kumar-jbit
+
+---
+
+Note
+
+This repository represents my engineering work and learning journey in embedded systems, hardware design, and VLSI.
